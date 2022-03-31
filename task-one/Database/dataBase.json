@@ -1,0 +1,21 @@
+[
+   {
+      "organization": "node ninja",
+      "createdAt": "2022-03-31T15:31:26.611Z",
+      "updatedAt": "2022-03-31T15:31:26.630Z",
+      "products": [
+         "developers",
+         "pizza"
+      ],
+      "marketValue": "90%",
+      "address": "sangotedo",
+      "ceo": "cn",
+      "country": "Taiwan",
+      "id": 1,
+      "noOfEmployees": 2,
+      "employees": [
+         "james bond",
+         "jackie chan"
+      ]
+   }
+]
